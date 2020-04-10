@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sample-angular-63ac9": {
+      "hosting": {
+        "sample-angular": [
+          "sample-angular-63ac9"
+        ]
+      }
+    }
+  }
+}
